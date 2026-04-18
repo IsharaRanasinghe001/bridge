@@ -1,0 +1,5 @@
+pc_server/.venv/
+pc_server/__pycache__/
+mobile_app/.dart_tool/
+mobile_app/build/
+mobile_app/.flutter-plugins
